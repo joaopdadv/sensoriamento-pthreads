@@ -1,0 +1,1 @@
+# TODO: criar script para buildar e rodar o projeto na pasta output/main.out
