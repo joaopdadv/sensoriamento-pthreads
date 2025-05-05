@@ -7,6 +7,8 @@ ZIP_FILE="devices_mqtt_data.zip"
 EXTRACT_DIR="devices_mqtt_data"
 CSV_FILE="devices.csv"
 
+clear
+
 function error_exit {
   echo "Erro: $1" >&2
   exit 1
